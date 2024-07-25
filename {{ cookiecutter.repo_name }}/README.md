@@ -47,7 +47,9 @@ Evaluar la efectividad del sistema y comunicar los hallazgos.
  
  * Lenguaje python     
  
- * power bi, excel para ETL        
+ * power bi, excel para ETL
+
+ * Estructura cookiecutter
 
 
 
