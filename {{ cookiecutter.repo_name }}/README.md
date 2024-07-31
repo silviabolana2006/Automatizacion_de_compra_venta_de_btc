@@ -51,6 +51,8 @@ Evaluar la efectividad del sistema y comunicar los hallazgos.
 
  * Estructura cookiecutter
 
+   Link video_ https://go.screenpal.com/watch/cZiwYRVPMhb
+
    
 
 
