@@ -51,6 +51,8 @@ Evaluar la efectividad del sistema y comunicar los hallazgos.
 
  * Estructura cookiecutter
 
+   
+
 
 
 ## Project Organization
